@@ -1,0 +1,7 @@
+//Re Doing Variables
+
+public class VAR{
+	public static void main(String[] args){
+		System.out.println("Hello VAR");
+	}
+}

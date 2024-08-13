@@ -1,0 +1,4 @@
+1. Comparison between new and old mobile.
+2. Need of mobile OS.   ✔
+3. History of mobile and mobile applications. ✔
+4. Installation of apps from Play Store.

@@ -1,0 +1,7 @@
+// Introduction to JAVA Varibales
+
+class Varibales{
+	public static void main(String[] args){
+		System.out.println("Hello World");	
+	}
+}
