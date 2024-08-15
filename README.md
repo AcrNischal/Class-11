@@ -76,7 +76,7 @@ Build web and mobile applications with HTML, CSS, and JavaScript. This section a
 
 ## ✨ Acknowledgments
 
-Special thanks to my teachers and classmates for their guidance and support throughout these projects!
+Special thanks to my teachers and classmates for their guidance and support!
 
 ---
 
