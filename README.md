@@ -4,10 +4,10 @@ Welcome to my collection of projects and resources from Class 11! Below is an ov
 
 ## 📚 Contents
 
-- [Computer Organization and Architecture](#computer-organization-and-architecture)
-- [Java Programming](#java-programming)
-- [Operating System](#operating-system)
-- [Web and Mobile Development](#web-and-mobile-development)
+- [Computer Organization and Architecture](https://github.com/Nischal-Acharya/Class-11/tree/main/Computer%20Organization%20and%20Architecture/2.%20Presentation)
+- [Java Programming](https://github.com/Nischal-Acharya/Class-11/tree/main/Java/1.%20Programs)
+- [Operating System](https://github.com/Nischal-Acharya/Class-11/tree/main/Operating%20System/2.%20Presentation)
+- [Web and Mobile Development](https://github.com/Nischal-Acharya/Class-11/tree/main/Web%20and%20Mobile/2.%20Presentation)
 
 ---
 
@@ -62,7 +62,7 @@ Build web and mobile applications with HTML, CSS, and JavaScript. This section a
 
 1. Clone this repository using:
     ```bash
-    git clone https://github.com/your-repo-name.git
+    git clone https://github.com/Nischal-Acharya/Class-11.git
     ```
 2. Navigate to the desired folder.
 3. Open the files with the appropriate software and start exploring!
@@ -81,7 +81,7 @@ Special thanks to my teachers and classmates for their guidance and support thro
 ---
 
 🔗 **Connect with me:**
-- GitHub: [Nischal-Acharya](https://github.com/Nischal-Acharya)
+- Portfolio: [Click Me to Visit](https://nishchalacharya.com.np)
 
 Feel free to reach out if you have any questions or feedback!
 
